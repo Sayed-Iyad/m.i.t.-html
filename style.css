@@ -2,5 +2,38 @@ div {
  color:plum;
  font-family: arial;
  font-size: 17pt;
+}
 
+
+.u-center {
+     text-align: center;
+}
+
+.img-topg {
+       display: flex;
+       justify-content: center;
+}
+
+img {
+    border-radius: 777px;
+}
+
+h1 {
+    font-family: helvetica;
+    font-size: 47pt;
+}
+
+p {
+    background-color: rgb(37, 0, 139);
+    border-top-right-radius: 17px;
+    border-top-right-radius: 17px;
+    color: gold;
+    padding-top: 17px;
+    padding-bottom: 17px;
+    
+}
+
+p {
+    font-family: helvetica;
+    font-size: 17pt;
 }
