@@ -1,14 +1,11 @@
-img {
-    border-radius: 77%;
-    width: 77px;
-    height: 77px;
-}
-
-.image-g {
+.imagecentro {
     display: flex;
     justify-content: center;
+ 
 }
 
-h1 {
-    
+img {
+    border-radius: 77%;
+    width: 377px;
+    height: 377px;
 }
